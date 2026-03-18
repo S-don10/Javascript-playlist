@@ -11,7 +11,7 @@ let isLoggedIn= false //booliean
 //number => 2 to power 53
 //string => ""
 //boolean => true/false
-//null => standalone value or empty value
+//null => standalone value or representation of empty value
 //undefined =>
 //symbol =>unique
 //object
